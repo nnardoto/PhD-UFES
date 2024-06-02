@@ -7,4 +7,4 @@ wget https://registrationcenter-download.intel.com/akdlm/IRC_NAS/56b2dd0e-954d-4
 sudo sh ./l_mpi_oneapi_p_2021.12.1.8_offline.sh -a -s --eula accept
 
 wget https://registrationcenter-download.intel.com/akdlm/IRC_NAS/fd9342bd-7d50-442c-a3e4-f41974e14396/l_fortran-compiler_p_2024.1.0.465_offline.sh
-sudo sh ./l_fortran-compiler_p_2024.1.0.465 -a -s --eula accept
+sudo sh ./l_fortran-compiler_p_2024.1.0.465_offline.sh -a -s --eula accept

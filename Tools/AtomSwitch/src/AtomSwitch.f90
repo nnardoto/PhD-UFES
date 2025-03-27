@@ -22,11 +22,6 @@ contains
         read(iov, *) X(2, :)
         read(iov, *) X(3, :)
 
-        write(*, *) X(1, :)
-        write(*, *) X(2, :)
-        write(*, *) X(3, :)
-
-
         read(io, *) nAtoms
         allocate(R(nAtoms, 3))
 

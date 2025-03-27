@@ -1,0 +1,7 @@
+name = "AtomSwitch"
+maintainer = "nnardoto@gmail.com"
+
+[fortran]
+implicit-typing = false
+implicit-external = false
+source-form = "free"
